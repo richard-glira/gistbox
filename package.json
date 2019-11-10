@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Gist React Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "richardlr23@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^10.0.0",
+    "browserify": "^16.5.0",
+    "gulp": "^4.0.2",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
